@@ -31,13 +31,9 @@ public final class Main
 
     // Your function calls go here
     // RobotBase.startRobot(Robot::new);
-    doit("Hello World");
+
   }
 
-  public static void doit(String message)
-  {
-    System.out.println("Message = " + message);
-  }
   // --------------------------------
   // Place your newly built functions here
   // --------------------------------
